@@ -23,4 +23,5 @@ https://github.com/imakhilnaidu/Chat-with-PDF/assets/84142821/dc4981a2-432a-45ce
   user input and now that chunks are passed to the LLM to generate response
 </p>
 
+
 ![Alt text](chat-with-pdf.png)
