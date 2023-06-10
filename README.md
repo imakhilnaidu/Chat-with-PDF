@@ -22,4 +22,5 @@ https://github.com/imakhilnaidu/Chat-with-PDF/assets/84142821/dc4981a2-432a-45ce
   previously. That input will got searched in vector database(chunks) and return chunks which are similar to
   user input and now that chunks are passed to the LLM to generate response
 </p>
-![chat-with-pdf](https://github.com/imakhilnaidu/Chat-with-PDF/assets/84142821/63ea6ef4-6858-43a6-8788-23d48ae72895)
+
+![Alt text](chat-with-pdf.png)
